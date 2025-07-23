@@ -720,52 +720,47 @@ body {
 /* SKILLS word */
 
 .skillsSLetter {
-  font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
+  font-size: 55px;
+  font-weight: normal;
+  color: rgb(241, 118, 248);
+  text-decoration: line-through;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Courier New', sans-serif;
 }
 .skillsKLetter {
-  font-size: 72px;
+  font-size: 48px;
   font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  color: rgb(105, 66, 249);
+  text-transform: lowercase;
+  font-family: Georgia, sans-serif;
 }
 .skillsILetter {
-  font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-size: 78px;
+  font-weight: normal;
+  color: rgb(23, 255, 38);
+  text-transform: lowercase;
+  font-family: Georgia, sans-serif;
 }
 .skillsLLetter {
-  font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-size: 80px;
+  font-weight: normal;
+  color: rgb(162, 0, 255);
+  text-transform: lowercase;
+  font-family: Georgia, sans-serif;
 }
 .skillsLTwoLetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 82px;
+  font-weight: normal;
   color: aqua;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  text-transform: lowercase;
+  font-family: Georgia, sans-serif;
 }
 .skillsSTwoLetter {
-  font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-size: 44px;
+  font-weight: normal;
+  color: rgb(121, 255, 19);
+  text-transform: lowercase;
+  font-family: Georgia, sans-serif;
 }
 
 /* SYMBOLS */
