@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
 
 * {
   padding: 0;
@@ -140,71 +143,70 @@ body {
 
 .frontendFLetter {
   font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
+  color: rgb(247, 251, 8);
+  font-weight: 100;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Bitcount', sans-serif;
 }
 
 .frontendRLetter {
-  font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-size: 71px;
+  font-weight: 100;
+  color: rgb(235, 170, 59);
+  text-decoration: line-through;
+  text-transform: lowercase;
+  font-family: 'Bitcount', sans-serif;
 }
 
 .frontendOLetter {
-  font-size: 72px;
+  font-size: 50px;
   font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
+  color: rgb(255, 140, 0);
+  text-decoration: overline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Bitcount', sans-serif;
 }
 
 .frontendNLetter {
-  font-size: 72px;
-  font-weight: bold;
-  color: aqua;
-  text-decoration: underline;
+  font-size: 33px;
+  font-weight: 200;
+  color: rgb(255, 0, 0);
+  text-decoration: line-through;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Bitcount', sans-serif;
 }
 
 .frontendTLetter {
-  font-size: 72px;
+  font-size: 62px;
   font-weight: bold;
-  color: aqua;
+  color: rgb(51, 0, 255);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Bitcount', sans-serif;
 }
 
 .frontendELetter {
-  font-size: 72px;
+  font-size: 64px;
   font-weight: bold;
-  color: aqua;
+  color: rgb(18, 188, 54);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Imperial Script', sans-serif;
 }
 
 .frontendNTwoLetter {
-  font-size: 72px;
+  font-size: 46px;
   font-weight: bold;
-  color: aqua;
+  color: rgb(255, 111, 0);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Monsieur La Doulaise', sans-serif;
 }
 
 .frontendDLetter {
-  font-size: 72px;
+  font-size: 44px;
   font-weight: bold;
-  color: aqua;
+  color: rgb(255, 0, 225);
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -272,7 +274,7 @@ body {
   font-size: 72px;
   font-weight: bold;
   color: aqua;
-  text-decoration: underline;
+  text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
 }
